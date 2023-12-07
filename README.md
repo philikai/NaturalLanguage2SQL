@@ -17,9 +17,9 @@ This repository contains resources and guides from the blog series "Natural Lang
 
 ## Additional Resources
 
-- [Complete Blog Series](LINK_TO_BLOG)
-- [CodeLLama Official Documentation](LINK_TO_CODELLAMA_DOCUMENTATION)
-- [Amazon SageMaker Official Documentation](LINK_TO_SAGEMAKER_DOCUMENTATION)
+- [Blog Part 1](https://medium.com/@philippkai/natural-language-to-sql-fine-tuning-codellama-with-amazon-sagemaker-part-1-3e1eb0fd1b11)
+- [CodeLLama](https://github.com/facebookresearch/codellama)
+- [Amazon SageMaker](https://aws.amazon.com/de/sagemaker/)
 
 ## Contributing
 
