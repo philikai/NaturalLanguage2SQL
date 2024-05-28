@@ -1,4 +1,4 @@
-# Fine-Tuning CodeLLama for NL2SQL
+# Fine-Tuning Llama Models for NL2SQL
 
 ## Overview
 
@@ -13,7 +13,9 @@ This repository contains resources and guides from the blog series "Natural Lang
   3. Fine-tuning process
   4. Deployment strategies
 
-- **Part 2 & 3**: (Upcoming) Further exploration and advanced topics in fine-tuning and deployment.
+- **Part 2**: Fine-tune LLama3 with Unsloth on Google Colab
+
+- **Part 3 & 4**: (Upcoming) Further exploration and advanced topics in fine-tuning and deployment and synthetic data generation.
 
 ## Additional Resources
 
